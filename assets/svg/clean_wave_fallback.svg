@@ -1,0 +1,6 @@
+<svg width="400" height="200" viewBox="0 0 400 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="200" fill="#F7F9FC"/>
+  <ellipse cx="200" cy="100" rx="120" ry="50" fill="#1766FF" fill-opacity="0.2"/>
+  <ellipse cx="200" cy="100" rx="90" ry="36" fill="#1766FF" fill-opacity="0.5"/>
+  <text x="200" y="108" text-anchor="middle" font-family="Inter" font-size="16" fill="#1766FF">Cleaning...</text>
+</svg>
